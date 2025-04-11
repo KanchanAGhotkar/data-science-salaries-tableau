@@ -91,3 +91,7 @@ Advanced statistical models to predict salary trends based on experience, employ
 Dataset Update: To update the dataset, ensure that the new data has the same format and schema as the original ds_salary dataset.
 
 **Interactive Filters:** If you need to modify the filters or interactions, open the Tableau workbook and adjust the filter settings as needed.
+
+Here is my Dashbord:
+![image](https://github.com/user-attachments/assets/634b5673-35ba-431b-af81-2ff029effe6f)
+
