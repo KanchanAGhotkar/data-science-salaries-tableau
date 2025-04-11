@@ -1,4 +1,5 @@
 **Employee Salary Dashboard - Data Analysis Project**
+
 Project Overview
 This project leverages the ds_salary dataset to create an interactive Tableau dashboard that provides insights into employee salaries across various employment types, experience levels, and company sizes. The dashboard is designed to help organizations and data analysts visualize key trends in employee compensation, segmented by employment type, experience, company size, and geographical location.
 
